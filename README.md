@@ -1,5 +1,7 @@
-# Web Scraping Using Python
+# Web Scraping Using Python 
 
-In this project, I will be working in python to web scrape one of the popular online hobby retailer in the US. (Note: All prices are presented in US dollar.)
+In this project, I will be working in python to web scrape one of the popular online hobby retailers in the US. The website can be found here: https://newtype.us/.
 
-The website can be find here: https://newtype.us/
+All the codes can be found in 'Web Scrapping Project.ipynb'. A final web scrapping dataset can be found in 'Web Scrapping Project.csv'.
+
+A visualization dashboard can also be found in 'Web Scrapping Project.pdf' and please feel free to download the 'Web Scrapping Project.ipbix' file for further reference.

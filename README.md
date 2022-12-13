@@ -4,4 +4,4 @@ In this project, I will be working in both python and Power BI to web scrape and
 
 All the codes can be found in 'Web Scrapping Project.ipynb'. A final web scrapping dataset can be found in 'Web Scrapping Project.csv'.
 
-The visualization dashboard can be found in 'Web Scrapping Project.pdf' and please feel free to download the 'Web Scrapping Project.ipbix' for further reference.
+The visualization dashboard can be found in 'Web Scrapping Project.pdf' and please feel free to download the 'Web Scrapping Project.pbix' for further reference.

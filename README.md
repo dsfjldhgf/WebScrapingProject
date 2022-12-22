@@ -1,6 +1,6 @@
 # Web Scraping 
 
-In this project, I will be working in both python and Power BI to web scrape and build visualization dashboard for one of the popular online hobby retailers in the US. The website can be found here: https://newtype.us/.
+In this project, I will be working in both python and Power BI to web scrape and build visualization dashboard for one of the popular online hobby retailers in the US. The online hobby retailer website can be found here: https://newtype.us/.
 
 All the codes can be found in 'Web Scraping Project.ipynb'. A final web scraped dataset can be found in 'Web Scraping Project.csv'.
 
